@@ -37,7 +37,7 @@ Main interface features:
 
 ## 3D Polypeptide Model
 
-[INSERT IMAGE HERE – Screenshot of 3D model (no interactions enabled)]
+![myoglobinraw](myoglobinraw.png)
 
 The 3D model is generated using:
 
@@ -52,7 +52,7 @@ The 3D model is generated using:
 - Vertical movement → Rotation around X-axis
 - Horizontal movement → Rotation around Y-axis
 
-[INSERT IMAGE HERE – Screenshot of rotated model]
+![rotatedMyoglobin](rotatedMyoglobin.png)
 
 ---
 
@@ -67,7 +67,7 @@ Rendered as:
 - Red lines in 3D model
 - Red points in contact map
 
-[INSERT IMAGE HERE – Screenshot highlighting disulphide bridges]
+![IGEDB](IGEDB.png)
 
 ---
 
@@ -84,13 +84,13 @@ Rendered as:
 - Green lines in 3D model
 - Green points in contact map
 
-[INSERT IMAGE HERE – Screenshot highlighting salt bridges]
+![IGESB](IGESB.png)
 
 ---
 
 ## Contact Map
 
-[INSERT IMAGE HERE – Screenshot of contact map]
+![myoglobinCM](myoglobinCM.png)
 
 The contact map:
 
@@ -107,7 +107,7 @@ The contact map:
 
 ### Full Screen 3D Model
 
-[INSERT IMAGE HERE – Screenshot of FullScreenModel form]
+
 
 - Maximised viewing area
 - Rotation capability
@@ -115,7 +115,7 @@ The contact map:
 
 ### Full Screen Contact Map
 
-[INSERT IMAGE HERE – Screenshot of FullScreenContactMap form]
+![fullscreenCMmyo](fullscreenCMmyo.png)
 
 - Enlarged contact map
 - Toggle interaction buttons
@@ -124,7 +124,7 @@ The contact map:
 
 ## PDB File History System
 
-[INSERT IMAGE HERE – Screenshot of PDB File History window]
+![pdbHis](pdbHis.png)
 
 - Stores previously input PDB filenames
 - Saves them in PDBFileHistory.txt
