@@ -20,7 +20,7 @@ This application allows users to input a Protein Data Bank (.pdb) file and gener
 
 ## Primary Display Interface
 
-[INSERT IMAGE HERE – Screenshot of PrimaryDisplayForm layout]
+![PDF]PDF.png
 
 Main interface features:
 
