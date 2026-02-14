@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tH1KrmhWAEiYzPi3TgO2qnYUre6sCtV6tnJbSqf8bthjrF5DtpQgNzvouWV8A6SROQ5UqdA+fbuXEoT48WLilA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tjmes\\OneDrive\\CSCW\\ProteinFoldingApplication\\COURSEWORK.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tjmes\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

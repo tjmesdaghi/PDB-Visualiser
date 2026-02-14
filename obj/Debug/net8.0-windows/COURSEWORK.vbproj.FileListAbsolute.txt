@@ -1,0 +1,594 @@
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.exe
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+C:\Users\tjmes\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.exe
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+C:\Users\tjmes\OneDrive\Desktop\CS_COURSEWORK\COURSEWORK\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\COURSEWORK\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+D:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.exe
+D:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+D:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+D:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.dll
+D:\COURSEWORK\bin\Debug\net8.0-windows\COURSEWORK.pdb
+D:\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\COURSEWORK\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.dll
+D:\COURSEWORK\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.pdb
+D:\COURSEWORK\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+D:\COURSEWORK\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\COURSEWORK - MAIN\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\COURSEWORK - MAIN\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\COURSEWORK - MAIN - Copy (2)\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\COURSEWORK - MAIN - Copy (2)\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\TRUEMAIN\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\TRUEMAIN\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\TRUEMAIN\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\TRUEMAIN\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\TRUEMAIN\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\TRUEMAIN\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\TRUEMAIN\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\TRUEMAIN\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\TRUEMAIN\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\TRUEMAIN\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+D:\TRUEMAIN - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+C:\Users\tjmes\OneDrive\CSCOURSEWORK\TRUEMAIN - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\WORKING\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\WORKING\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\WORKING\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\WORKING\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\WORKING\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\WORKING\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\COURSEWORK.exe
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\COURSEWORK.pdb
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+N:\downloads\TrypsinA\WORKING\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.pdb
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+N:\downloads\TrypsinA\WORKING\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+N:\downloads\TrypsinA\WORKING - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+N:\downloads\TrypsinA\WORKING - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\WORKING - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\WORKING - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\WORKING - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\WORKING - Copy - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\WORKING - Copy - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\WORKING - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\WORKING - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\WORKING - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\THE ONE\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\THE ONE\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\THE ONE\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\THE ONE\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE ONE\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE ONE\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\THE ONE\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.Form1.resources
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.Form2.resources
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.Form3.resources
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE ONE\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE ONE\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\THE ONE\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\THE ONE - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+E:\THE ONE - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+E:\FINAL\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\FINAL\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\FINAL\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\FINAL\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\FINAL\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\FINAL\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\FINAL\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\FINAL\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\FINAL\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\FINAL\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\FINAL - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\FINAL - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+N:\tRISTAN\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+N:\tRISTAN\FINAL - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\THE FINAL FR\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\THE FINAL FR\FINAL - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+E:\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.exe
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\COURSEWORK.pdb
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.pdb
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+N:\tRISTAN\ENDPOINT\FINAL - Copy\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.exe
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+C:\Users\tjmes\OneDrive\ProteinFoldingApplication\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.exe
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.deps.json
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.runtimeconfig.json
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.AssemblyReference.cache
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.FullScreenContactMap.resources
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.FullScreenModel.resources
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.PrimaryDisplayForm.resources
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.GenerateResource.cache
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfoInputs.cache
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.AssemblyInfo.vb
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.CoreCompileInputs.cache
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.vbproj.Up2Date
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\refint\COURSEWORK.dll
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.pdb
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\COURSEWORK.genruntimeconfig.cache
+C:\Users\tjmes\OneDrive\CSCW\ProteinFoldingApplication\obj\Debug\net8.0-windows\ref\COURSEWORK.dll
